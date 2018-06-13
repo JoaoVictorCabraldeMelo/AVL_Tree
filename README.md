@@ -7,11 +7,15 @@ An implementation of AVL trees in C
 * ./main
 
 -[x] Create an AVL Tree
+
 -[X] Make the rotations to made them balanced
--[X] Insert and verify if the tree is balanced 
--[ ] Remove and verify if the tree is balanced 
+
+-[X] Insert and verify if the tree is balanced
+
+-[ ] Remove and verify if the tree is balanced
+
 -[X] Drink more cofee
 
 **This code was made by students for learning purposes**
 
-![Alt Text]http://www.zentut.com/wp-content/uploads/2009/12/c-avl-tree.png
+![Alt Text](http://www.zentut.com/wp-content/uploads/2009/12/c-avl-tree.png)
